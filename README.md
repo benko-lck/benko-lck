@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ba.linkedin.com/in/bselimovic)
 
-I am an Information Technology student and junior IT Security practitioner focused on SOC analysis, Blue Team fundamentals, Windows troubleshooting, Microsoft security technologies, and enterprise IT operations.
+I am an Information Technology student and IT Security intern focused on SOC analysis, Blue Team fundamentals, Windows troubleshooting, Microsoft security technologies, and enterprise IT operations.
 
 ---
 
