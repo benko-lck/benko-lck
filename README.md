@@ -43,7 +43,7 @@ I am also interested in System Administration and Network Administration because
 
 ## Projects
 
-### SOC KQL Builder
+### - SOC KQL Builder
 
 Offline static web application for generating and learning beginner-friendly KQL queries for SOC investigation scenarios.
 
@@ -52,7 +52,7 @@ The project focuses on Microsoft Sentinel / Defender-style query structure, tria
 [Repository](https://github.com/benko-lck/soc-kql-builder)  
 [Live Demo](https://benko-lck.github.io/soc-kql-builder/)
 
-### Phishing Email Analysis Template
+### - Phishing Email Analysis Template
 
 Beginner-friendly phishing investigation template focused on practical SOC-style analysis.
 
