@@ -4,8 +4,6 @@
 
 I am an Information Technology student and IT Security intern focused on SOC analysis, Blue Team fundamentals, Windows troubleshooting, Microsoft security technologies, and enterprise IT operations.
 
----
-
 ## Objective
 
 I am currently building my path toward a junior Blue Team role.
@@ -13,8 +11,6 @@ I am currently building my path toward a junior Blue Team role.
 My main focus is understanding how security operations work in real environments: alert triage, log analysis, phishing investigation, endpoint security, Microsoft Defender, KQL, incident documentation, and structured troubleshooting.
 
 I am also interested in System Administration and Network Administration because strong fundamentals in Windows, identity, endpoints, networking and user support are important for becoming a better security analyst.
-
----
 
 ## Skills
 
@@ -28,8 +24,6 @@ I am also interested in System Administration and Network Administration because
 | Scripting & Technical Workflows | PowerShell basics, Git/GitHub, documentation, repeatable investigation notes |
 | Security Tools & Platforms | VirusTotal, CyberChef, Jira, Patch Manager workflows, ServiceNow VM exposure |
 | Virtualization & Labs | VirtualBox, Docker basics, local lab building |
-
----
 
 ## Certifications & Learning
 
@@ -47,8 +41,6 @@ I am also interested in System Administration and Network Administration because
 ![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-Planned-4285F4?style=for-the-badge&logo=google&logoColor=white)
 • • •
 
----
-
 ## Projects
 
 ### SOC KQL Builder
@@ -59,8 +51,6 @@ The project focuses on Microsoft Sentinel / Defender-style query structure, tria
 
 [Repository](https://github.com/benko-lck/soc-kql-builder)  
 [Live Demo](https://benko-lck.github.io/soc-kql-builder/)
-
----
 
 ### Phishing Email Analysis Template
 
@@ -76,8 +66,6 @@ Planned contents:
 - SOC-style investigation workflow
 
 Status: `In Progress`
-
----
 
 ## Current Focus
 
