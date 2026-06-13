@@ -47,15 +47,6 @@ I am also interested in System Administration and Network Administration because
 ![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-Planned-4285F4?style=for-the-badge&logo=google&logoColor=white)
 • • •
 
-My planned certification path is focused on building strong fundamentals first, then moving deeper into SOC analysis and security operations:
-
-- **AZ-900**: Azure fundamentals, cloud concepts, identity, governance, and basic Microsoft cloud services
-- **SC-200**: Microsoft security operations, Defender, Sentinel, KQL, alert investigation, and incident response
-- **CompTIA Security+**: vendor-neutral security fundamentals, threats, risk, networking security, identity, and security operations
-- **CompTIA Network+**: networking fundamentals, troubleshooting, infrastructure, protocols, routing, switching, and network security basics
-- **CCNA**: deeper networking knowledge, routing and switching, VLANs, subnetting, wireless, security fundamentals, and network automation basics
-- **Google Cybersecurity**: practical cybersecurity fundamentals, SIEM basics, Linux, SQL, incident response, and security analyst workflows
-
 ---
 
 ## Projects
