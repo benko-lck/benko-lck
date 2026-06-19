@@ -23,7 +23,7 @@ I am also interested in System Administration and Network Administration because
 | Networking | TCP/IP, DNS, DHCP, VPN basics, firewall basics, connectivity troubleshooting |
 | Scripting & Technical Workflows | PowerShell basics, Git/GitHub, documentation, repeatable investigation notes |
 | Security Tools & Platforms | VirusTotal, CyberChef, Jira, Patch Manager workflows, ServiceNow VM exposure |
-| Virtualization & Labs | VirtualBox, Docker basics, local lab building |
+| Virtualization & Labs | Proxmox VE, LXC containers, VirtualBox, Docker basics, local lab building |
 
 ## Certifications & Learning
 
@@ -43,7 +43,7 @@ I am also interested in System Administration and Network Administration because
 
 ## Projects
 
-### - SOC KQL Builder
+### SOC KQL Builder
 
 Offline static web application for generating and learning beginner-friendly KQL queries for SOC investigation scenarios.
 
@@ -52,7 +52,21 @@ The project focuses on Microsoft Sentinel / Defender-style query structure, tria
 [Repository](https://github.com/benko-lck/soc-kql-builder)  
 [Live Demo](https://benko-lck.github.io/soc-kql-builder/)
 
-### - Phishing Email Analysis Template
+---
+
+### Proxmox Home Lab
+
+Personal Proxmox home lab for practicing Linux administration, SSH hardening, firewall configuration, nginx logging, and beginner Blue Team/SOC workflows.
+
+The lab currently includes a Debian server LXC, a Linux client LXC, controlled SSH failed-login testing, web path probing, basic nmap scanning, log review, and a mini incident report.
+
+Focus areas: Proxmox VE, Linux, SSH, UFW, nginx, journalctl, log analysis, incident documentation, and SOC-style investigation thinking.
+
+[Repository](https://github.com/benko-lck/proxmox-homelab)
+
+---
+
+### Phishing Email Analysis Template
 
 Beginner-friendly phishing investigation template focused on practical SOC-style analysis.
 
