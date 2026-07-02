@@ -28,7 +28,7 @@ I am also interested in System Administration and Network Administration because
 ## Certifications & Learning
 
 [![Microsoft SC-900](https://img.shields.io/badge/Microsoft%20SC--900-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/benjamin-selimovic/98EE52520C161BC2?sharingId=A5A708569F5B9956)
-[![AZ-900](https://img.shields.io/badge/Microsoft%20AZ--900-Planned-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/benjamin-selimovic/credentials/b1a83b3f53eaee90)
+[![AZ-900](https://img.shields.io/badge/Microsoft%20AZ--900-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/benjamin-selimovic/credentials/b1a83b3f53eaee90)
 [![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/VQ112DNFFBEG)
 [![EFSET C1](https://img.shields.io/badge/English-C1%20Proficient-1F2937?style=for-the-badge)](https://cert.efset.org/4hzRzK)
 
